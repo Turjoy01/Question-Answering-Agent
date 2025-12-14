@@ -45,3 +45,4 @@ uvicorn main:app --reload
       "question": "What is the capital of France?"
     }'
     ```
+    <img width="961" height="947" alt="image" src="https://github.com/user-attachments/assets/a7a6d1de-0323-4f79-ad16-eb3c4e7bd3bd" />
